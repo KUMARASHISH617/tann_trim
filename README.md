@@ -4,7 +4,7 @@ A modern, dark-themed e-commerce homepage for a luxury bag brand built with Vite
 
 ## Live Demo
 
-[https://tann-trim.netlify.app](https://tann-trim.netlify.app)
+hilarious-stroopwafel-ba0cc0.netlify.app
 
 ## Features
 
